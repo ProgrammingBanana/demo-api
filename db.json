@@ -91,9 +91,9 @@
             "id": 1234,
             "email": "sansa@gmail.com",
             "password": "prueba123",
-            "username": "",
-            "birthday": "",
-            "address": ""
+            "username": "Sbonilla",
+            "birthday": "May,30,2000",
+            "address": "A La Derecha, Despues de la Izquierda, Frente a Casa de Don Juan"
         }
     ]
 }
