@@ -1,14 +1,98 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+    "transactions": [
+        {
+            "id": "1",
+            "date": "Jun 1,2021",
+            "title": "PSN - Ratchet and Clank Rift Apart",
+            "amount": 99.99
+        },
+        {
+            "id": "2",
+            "date": "Jun 2,2021",
+            "title": "PSN - Returnal",
+            "amount": 69.99
+        },
+        {
+            "id": "3",
+            "date": "Jun 2,2021",
+            "title": "PSN - Call of Duty Cold War",
+            "amount": 59.99
+        },
+        {
+            "id": "4",
+            "date": "Jun 3,2021",
+            "title": "PSN - It Takes Two",
+            "amount": 39.99
+        },
+        {
+            "id": "6",
+            "date": "Jun 3,2021",
+            "title": "PSN - Call of Duty BattlePass",
+            "amount": 19.99
+        },
+        {
+            "id": "7",
+            "date": "Jun 3,2021",
+            "title": "PSN - Call of Duty Item 1",
+            "amount": 9.99
+        },
+        {
+            "id": "8",
+            "date": "Jun 3,2021",
+            "title": "PSN - Call of Duty Item 2",
+            "amount": 19.99
+        }
+        ,
+        {
+            "id": "9",
+            "date": "Jun 4,2021",
+            "title": "PSN - Call of Duty Item 3",
+            "amount": 24.99
+        },
+        {
+            "id": "10",
+            "date": "Jun 5,2021",
+            "title": "PSN - Call of Duty Item 4",
+            "amount": 19.99
+        },
+        {
+            "id": "11",
+            "date": "Jun 6,2021",
+            "title": "PSN - Call of Duty Item 5",
+            "amount": 16.99
+        },
+        {
+            "id": "12",
+            "date": "Jun 7,2021",
+            "title": "PSN - Call of Duty Item 6",
+            "amount": 12.99
+        },
+        {
+            "id": "13",
+            "date": "Jun 7,2021",
+            "title": "PSN - Call of Duty Item 7",
+            "amount": 14.99
+        },
+        {
+            "id": "15",
+            "date": "Jun 10,2021",
+            "title": "PSN - Call of Duty Season Pass",
+            "amount": 39.99
+        },
+        {
+            "id": "15",
+            "date": "Jun 12,2021",
+            "title": "PSN - Call of Duty Zombie Pack",
+            "amount": 9.99
+        }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+    "users": [
+        {
+            "email": "sansa@gmail.com",
+            "password": "prueba123",
+            "username": "",
+            "Birthday": "",
+            "Address": ""
+        }
+    ]
+}
